@@ -1,6 +1,6 @@
 {
-  "version": "0.2.2",
-  "notes": "Corrige importação do CNIS: competências com indicador PREC-MENOR-MIN agora usam o salário de contribuição correto, em vez do valor da contribuição paga.",
-  "mac_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.2.2/LUMOPREV-mac.zip",
-  "sha256": "9a22d33c7a59c57ada97dd5e42187eefe746f0da0e0ed3038a41207d256946c0"
+  "version": "0.2.3",
+  "notes": "Corrige um problema de assinatura digital que impedia o app de abrir em alguns computadores (agora distribuído como .dmg em vez de .zip).",
+  "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.2.3/LUMOPREV-mac.dmg",
+  "sha256": "2e7632444b33e99946d7392f28df1c02494b3d15d32a94e919af973f86fa0f0c"
 }
