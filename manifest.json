@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "notes": "Versão inicial",
-  "mac_zip_url": "",
-  "sha256": ""
+  "version": "0.2.1",
+  "notes": "Adiciona MEI ao Planejamento Previdenciário (alíquota fixa de 5% sobre 1 salário mínimo). App agora assinado e notarizado pela Apple.",
+  "mac_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.2.1/LUMOPREV-mac.zip",
+  "sha256": "3660d72ddd61568e1ca58a40186f40b5d9ac4d7f9003d992dd38f0089bd2891d"
 }
