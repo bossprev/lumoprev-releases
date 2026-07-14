@@ -1,6 +1,6 @@
 {
-  "version": "0.2.1",
-  "notes": "Adiciona MEI ao Planejamento Previdenciário (alíquota fixa de 5% sobre 1 salário mínimo). App agora assinado e notarizado pela Apple.",
-  "mac_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.2.1/LUMOPREV-mac.zip",
-  "sha256": "3660d72ddd61568e1ca58a40186f40b5d9ac4d7f9003d992dd38f0089bd2891d"
+  "version": "0.2.2",
+  "notes": "Corrige importação do CNIS: competências com indicador PREC-MENOR-MIN agora usam o salário de contribuição correto, em vez do valor da contribuição paga.",
+  "mac_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.2.2/LUMOPREV-mac.zip",
+  "sha256": "9a22d33c7a59c57ada97dd5e42187eefe746f0da0e0ed3038a41207d256946c0"
 }
