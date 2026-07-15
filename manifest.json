@@ -1,8 +1,8 @@
 {
-  "version": "0.2.4",
-  "notes": "Corrige a importação do CNIS (competências com PREC-MENOR-MIN), a exibição da RMI de Outros Benefícios quando fixada no salário mínimo, remove o piso de salário mínimo do cálculo de Contribuição em Atraso, e mostra uma mensagem clara quando falta a Data de Pagamento. Adiciona suporte a Windows.",
-  "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.2.4/LUMOPREV-mac.dmg",
-  "sha256": "8f15c47a4a52ffd62ee7ea0166b322054e740bba89f20cb8f734abf9ce614faa",
-  "windows_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.2.4/LUMOPREV-windows.zip",
-  "sha256_windows": "1da197fa2299759e5468d482dd9ea52d6db381269fe6a5f92bf5d85c3a9ce6c5"
+  "version": "0.3.0",
+  "notes": "Clientes, cálculos, escritório, tarefas, cobranças e planejamento agora ficam salvos na nuvem -- passa a ser possível logar em outro computador e ver os mesmos dados. A partir desta versão, é necessário estar conectado à internet para usar essas telas.",
+  "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.3.0/LUMOPREV-mac.dmg",
+  "sha256": "18c55b595a8322121bfc8f8c16ef5681db481f7b32fdc4ddf8e8761e67ed9e43",
+  "windows_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.3.0/LUMOPREV-windows.zip",
+  "sha256_windows": "24cb19f30bd681eb8667f390626e95088576b3600ba3cd40021d9f75540b59f4"
 }
