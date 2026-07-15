@@ -1,6 +1,6 @@
 {
-  "version": "0.2.3",
-  "notes": "Corrige um problema de assinatura digital que impedia o app de abrir em alguns computadores (agora distribuído como .dmg em vez de .zip).",
-  "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.2.3/LUMOPREV-mac.dmg",
-  "sha256": "2e7632444b33e99946d7392f28df1c02494b3d15d32a94e919af973f86fa0f0c"
+  "version": "0.2.4",
+  "notes": "Corrige a importação do CNIS (competências com PREC-MENOR-MIN), a exibição da RMI de Outros Benefícios quando fixada no salário mínimo, remove o piso de salário mínimo do cálculo de Contribuição em Atraso, e mostra uma mensagem clara quando falta a Data de Pagamento.",
+  "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.2.4/LUMOPREV-mac.dmg",
+  "sha256": "8f15c47a4a52ffd62ee7ea0166b322054e740bba89f20cb8f734abf9ce614faa"
 }
