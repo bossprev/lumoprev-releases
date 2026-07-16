@@ -1,8 +1,8 @@
 {
-  "version": "0.3.0",
-  "notes": "Clientes, cálculos, escritório, tarefas, cobranças e planejamento agora ficam salvos na nuvem -- passa a ser possível logar em outro computador e ver os mesmos dados. A partir desta versão, é necessário estar conectado à internet para usar essas telas.",
-  "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.3.0/LUMOPREV-mac.dmg",
-  "sha256": "18c55b595a8322121bfc8f8c16ef5681db481f7b32fdc4ddf8e8761e67ed9e43",
-  "windows_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.3.0/LUMOPREV-windows.zip",
-  "sha256_windows": "24cb19f30bd681eb8667f390626e95088576b3600ba3cd40021d9f75540b59f4"
+  "version": "0.3.1",
+  "notes": "Rótulo \"Considera vínculo\" renomeado para \"Considera tempo\". Destaque em vermelho no campo Fim do vínculo quando vazio. Aviso ao tentar calcular com Nascimento, DER, Fim de vínculo ou Data de Pagamento faltando. Painel de Tarefas e Fluxo Financeiro agora são páginas próprias, com menu de navegação no topo. Rodapé com dados da empresa e Termos de Uso na tela de login. Correções de bugs na gravação de vínculos na nuvem.",
+  "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.3.1/LUMOPREV-mac.dmg",
+  "sha256": "e81aabf0c2136f9c19f37f85f51cbab5072118d3afa9f4fa0cfa42d22d1a5fb1",
+  "windows_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.3.1/LUMOPREV-windows.zip",
+  "sha256_windows": "478042a5cae00f0c331732e5dccb92ba5016e07e8878c41f1338c0fff8b0bfad"
 }
