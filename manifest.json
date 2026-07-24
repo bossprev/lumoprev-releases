@@ -1,8 +1,8 @@
 {
-  "version": "0.4.0",
-  "notes": "Descarte de tempo/carência para competências abaixo do salário mínimo sem ajuste a partir de 11/2019 (com observação nos relatórios); regra de professor(a) antes da reforma sem pontos; correção: mês da DIB não entra mais no cálculo da RMI; avisos de sexo/data futura; coluna de tipo de segurado nos salários.",
-  "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.4.0/LUMOPREV-mac.dmg",
-  "sha256": "e2dabb015d12f757e9b5e10358f40592dd813291e21a734cd313d9fda36f532f",
-  "windows_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.4.0/LUMOPREV-windows.zip",
-  "sha256_windows": "bd374424a8aa915317315ee64fe7befee3905b6cb798767e787ca3f191d52c6b"
+  "version": "0.6.0",
+  "notes": "Correção da contagem de tempo (meses de 28/29/31 dias), correção monetária e PBC mínimo, novas regras de aposentadoria especial e professor para quem se filiou após 2019, e correção no salvamento automático.",
+  "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.0/LUMOPREV-mac.dmg",
+  "sha256": "4660bbfc027142ec1b145a010bb359d9cbc00ccd5fc527e0b09aa31a3b6c39c1",
+  "windows_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.0/LUMOPREV-windows.zip",
+  "sha256_windows": "ffb81e9a31fd20dc03640e1d9d9b264f2053f8486a65a398163b0fe13cace17d"
 }
