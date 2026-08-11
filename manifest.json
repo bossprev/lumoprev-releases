@@ -1,8 +1,8 @@
 {
-  "version": "0.6.1",
-  "notes": "Planejamento Previdenciário: novo resumo no topo da página mostrando as regras que o(a) segurado(a) já cumpre hoje ou tem previsão de cumprir no futuro.",
-  "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.1/LUMOPREV-mac.dmg",
-  "sha256": "41c007ad7a6195258db6be1f54b8fcd1b701fc5a0c5e8a661daf66079240947d",
-  "windows_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.1/LUMOPREV-windows.zip",
-  "sha256_windows": "25680f06cfc778f2fbbcfbbdf9d8336ce7ab8d2c7d8b08a046dc3a2d2a64572c"
+  "version": "0.6.2",
+  "notes": "Correção nas regras de aposentadoria \"antes da reforma\": quando a Data do Cálculo é anterior a 13/11/2019, o tempo/idade/carência e a exigência de pontos da regra 85/95 progressiva agora são avaliados corretamente na própria Data do Cálculo, em vez de projetados para a data da reforma.",
+  "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.2/LUMOPREV-mac.dmg",
+  "sha256": "1e28efe2ac87c75fcdec8a4ff1643b7fb4f8d82833cc14e65be6583a6c17fd57",
+  "windows_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.2/LUMOPREV-windows.zip",
+  "sha256_windows": "0a151e0c2ef5ba455226cd7c9b71fb75fc7e075c710e681a41641da4f7f04963"
 }
