@@ -1,8 +1,8 @@
 {
-  "version": "0.6.2",
-  "notes": "Correção nas regras de aposentadoria \"antes da reforma\": quando a Data do Cálculo é anterior a 13/11/2019, o tempo/idade/carência e a exigência de pontos da regra 85/95 progressiva agora são avaliados corretamente na própria Data do Cálculo, em vez de projetados para a data da reforma.",
-  "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.2/LUMOPREV-mac.dmg",
-  "sha256": "1e28efe2ac87c75fcdec8a4ff1643b7fb4f8d82833cc14e65be6583a6c17fd57",
-  "windows_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.2/LUMOPREV-windows.zip",
-  "sha256_windows": "0a151e0c2ef5ba455226cd7c9b71fb75fc7e075c710e681a41641da4f7f04963"
+  "version": "0.6.3",
+  "notes": "Cálculo do Valor da Causa: agora é possível descontar mais de um benefício recebido. Cálculo de Honorários: corrigido o recálculo das parcelas ao mudar a quantidade. Aviso de Aposentadoria Próxima: corrigido caso em que o \"Ciente, ocultar\" não salvava de verdade. Análise de Requisitos: adicionada a Data de Nascimento no cabeçalho. Salários: valores agora aparecem formatados como moeda. Botões com fundo branco agora usam fundo azul claro.",
+  "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.3/LUMOPREV-mac.dmg",
+  "sha256": "642d97c006d9771265976dc14b82ebdd6d44a31a12c2cbbafeb5a73edc13e3ca",
+  "windows_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.3/LUMOPREV-windows.zip",
+  "sha256_windows": "89cf5e677860941f2639d8f0d534972040ccd6a89ecc88eb83846a45ed237f0b"
 }
