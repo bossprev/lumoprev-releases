@@ -1,8 +1,8 @@
 {
-  "version": "0.6.3",
-  "notes": "Cálculo do Valor da Causa: agora é possível descontar mais de um benefício recebido. Cálculo de Honorários: corrigido o recálculo das parcelas ao mudar a quantidade. Aviso de Aposentadoria Próxima: corrigido caso em que o \"Ciente, ocultar\" não salvava de verdade. Análise de Requisitos: adicionada a Data de Nascimento no cabeçalho. Salários: valores agora aparecem formatados como moeda. Botões com fundo branco agora usam fundo azul claro.",
-  "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.3/LUMOPREV-mac.dmg",
-  "sha256": "642d97c006d9771265976dc14b82ebdd6d44a31a12c2cbbafeb5a73edc13e3ca",
-  "windows_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.3/LUMOPREV-windows.zip",
-  "sha256_windows": "89cf5e677860941f2639d8f0d534972040ccd6a89ecc88eb83846a45ed237f0b"
+  "version": "0.6.4",
+  "notes": "Aposentadoria por Idade Rural: corrigido o coeficiente da RMI (70% + 1% por grupo de 12 contribuições, e não 60% + 2% por ano) e removida a exigência de carência mínima separada. Análise de Requisitos: tempo mínimo de atividade rural agora aparece em anos/meses/dias. Novo botão \"Duplicar Cliente\" para criar simulações diferentes do mesmo cadastro, com campo \"Nome do cálculo\" para identificar cada uma.",
+  "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.4/LUMOPREV-mac.dmg",
+  "sha256": "831aa7f90e89e2659380e0fb93e02761d2d676368e1e62c455d2d904d097f16d",
+  "windows_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.4/LUMOPREV-windows.zip",
+  "sha256_windows": "e7a079bc864c73bddc9defb4781ef8dc51972f4e57752b87a406dd2bc4cf157f"
 }
