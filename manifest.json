@@ -1,8 +1,8 @@
 {
-  "version": "0.6.4",
-  "notes": "Aposentadoria por Idade Rural: corrigido o coeficiente da RMI (70% + 1% por grupo de 12 contribuições, e não 60% + 2% por ano) e removida a exigência de carência mínima separada. Análise de Requisitos: tempo mínimo de atividade rural agora aparece em anos/meses/dias. Novo botão \"Duplicar Cliente\" para criar simulações diferentes do mesmo cadastro, com campo \"Nome do cálculo\" para identificar cada uma.",
-  "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.4/LUMOPREV-mac.dmg",
-  "sha256": "831aa7f90e89e2659380e0fb93e02761d2d676368e1e62c455d2d904d097f16d",
-  "windows_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.4/LUMOPREV-windows.zip",
-  "sha256_windows": "e7a079bc864c73bddc9defb4781ef8dc51972f4e57752b87a406dd2bc4cf157f"
+  "version": "0.6.5",
+  "notes": "Outros Benefícios: aviso antes do resultado quando há salários abaixo do mínimo a partir de 11/2019 (com opção de ajustar ou continuar); competências sem nenhum salário lançado agora são excluídas do cálculo, em vez de fixadas no salário mínimo. Novo botão para calcular o Valor da Causa direto do resultado de Outros Benefícios, já preenchendo tipo de benefício, DIB e RMI. Valor da Causa: correção no cálculo dos meses parciais (convenção de 30 dias por mês) e no reajuste anual (RMI informada abaixo do salário mínimo não é mais fixada nele por engano), com nova coluna mostrando a fração do mês em tela e no PDF. Edição de vínculos: novo botão para abrir a tabela num popup mais largo, mais fácil de editar.",
+  "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.5/LUMOPREV-0.6.5-mac.dmg",
+  "sha256": "003fe20a1aefc3d73cbfcae2e9bd7e9e8a4ce137d158af272d25b13e9174d9d4",
+  "windows_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.5/LUMOPREV-windows.zip",
+  "sha256_windows": "077be4cf902e62efdd0e4c448b032cb7ed7df44c2f7b5618e4c19c2a03335977"
 }
