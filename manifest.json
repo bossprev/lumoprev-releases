@@ -1,8 +1,8 @@
 {
-  "version": "0.6.5",
-  "notes": "Outros Benefícios: aviso antes do resultado quando há salários abaixo do mínimo a partir de 11/2019 (com opção de ajustar ou continuar); competências sem nenhum salário lançado agora são excluídas do cálculo, em vez de fixadas no salário mínimo. Novo botão para calcular o Valor da Causa direto do resultado de Outros Benefícios, já preenchendo tipo de benefício, DIB e RMI. Valor da Causa: correção no cálculo dos meses parciais (convenção de 30 dias por mês) e no reajuste anual (RMI informada abaixo do salário mínimo não é mais fixada nele por engano), com nova coluna mostrando a fração do mês em tela e no PDF. Edição de vínculos: novo botão para abrir a tabela num popup mais largo, mais fácil de editar.",
-  "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.5/LUMOPREV-0.6.5-mac.dmg",
-  "sha256": "003fe20a1aefc3d73cbfcae2e9bd7e9e8a4ce137d158af272d25b13e9174d9d4",
-  "windows_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.5/LUMOPREV-windows.zip",
-  "sha256_windows": "077be4cf902e62efdd0e4c448b032cb7ed7df44c2f7b5618e4c19c2a03335977"
+  "version": "0.6.7",
+  "notes": "O app agora se chama BossprevOne (mesmo programa, só o nome mudou). Relatórios em PDF com visual novo (cartões e tabelas mais limpos, sem cabeçalho preto). Planejamento Previdenciário: a simulação com novas contribuições agora usa corretamente a Data do Cálculo do cliente (em vez da data de hoje), com um aviso quando essa data está desatualizada. Valor da Causa: RMI informada abaixo do salário mínimo não é mais arredondada por engano no reajuste de janeiro, e a coluna Adicional de 25% só aparece para incapacidade permanente. Importação de CNIS: agora avisa quando o arquivo enviado não é um extrato do CNIS válido. Reforços internos de segurança: limite de tentativas de login, proteção contra uso indevido do sistema e validação mais rigorosa de arquivos enviados (logo do escritório e CNIS).",
+  "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.7/BossprevOne-mac.dmg",
+  "sha256": "9ac244d0af82e3c8e590984dbc97da9d7cf9db2e35f998f0943fddbde3ae9bc9",
+  "windows_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.7/BossprevOne-windows.zip",
+  "sha256_windows": "09e831c555c3d2061de512f1ebd079e46afb2857adb5bac66dbe5a166e8687dc"
 }
