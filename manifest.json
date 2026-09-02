@@ -1,6 +1,6 @@
 {
   "version": "0.6.7",
-  "notes": "O app agora se chama BossprevOne (mesmo programa, só o nome mudou). Relatórios em PDF com visual novo (cartões e tabelas mais limpos, sem cabeçalho preto). Planejamento Previdenciário: a simulação com novas contribuições agora usa corretamente a Data do Cálculo do cliente (em vez da data de hoje), com um aviso quando essa data está desatualizada. Valor da Causa: RMI informada abaixo do salário mínimo não é mais arredondada por engano no reajuste de janeiro, e a coluna Adicional de 25% só aparece para incapacidade permanente. Importação de CNIS: agora avisa quando o arquivo enviado não é um extrato do CNIS válido. Reforços internos de segurança: limite de tentativas de login, proteção contra uso indevido do sistema e validação mais rigorosa de arquivos enviados (logo do escritório e CNIS).",
+  "notes": "",
   "mac_dmg_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.7/BossprevOne-mac.dmg",
   "sha256": "9ac244d0af82e3c8e590984dbc97da9d7cf9db2e35f998f0943fddbde3ae9bc9",
   "windows_zip_url": "https://github.com/bossprev/lumoprev-releases/releases/download/v0.6.7/BossprevOne-windows.zip",
